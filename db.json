@@ -1,0 +1,22 @@
+{
+  "contatos": [
+    {
+      "nome": "Marcos Andrade",
+      "email": "marcos.andrade@gmail.com",
+      "telefone": "55977441122",
+      "id": "1"
+    },
+    {
+      "id": "9959",
+      "nome": "Mateus",
+      "email": "mateus@gmail.com",
+      "telefone": "33944552211"
+    },
+    {
+      "id": "76cd",
+      "nome": "Rogério",
+      "email": "rogerio@bol.com.br",
+      "telefone": "11955663322"
+    }
+  ]
+}
