@@ -2,6 +2,17 @@
   "expo": {
     "name": "api-app",
     "slug": "api-app",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "534f2852-74eb-46c8-9584-5e854d2ce813"
+      }
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/534f2852-74eb-46c8-9584-5e854d2ce813"
+    },
+    "android": {},
+    "ios": {}
   }
 }
